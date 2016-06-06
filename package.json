@@ -1,0 +1,17 @@
+{
+  "name": "mitch_cv",
+  "version": "1.0.0",
+  "description": "Ciriculum Vitae of Mitchell Horne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --progress --colors",
+    "watch": "webpack --progress --colors --watch"
+  },
+  "author": "Mtch Horne",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3"
+  }
+}
