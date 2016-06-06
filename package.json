@@ -1,5 +1,5 @@
 {
-  "name": "Nicoline-cv",
+  "name": "Nicoline-CV",
   "version": "1.0.0",
   "description": "Ciriculum Vitae of Mitchell Horne",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "webpack": "webpack --progress --colors",
     "watch": "webpack --progress --colors --watch"
   },
-  "author": "Mtch Horne",
+  "author": "Nicoline-CV",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.6",
